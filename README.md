@@ -55,8 +55,7 @@ This repo contains notebooks and scripts for:
 Fine-tune-experiment/
 ├── 1.Single_turn_fc/      # Notebooks and scripts for single-turn function calling & evaluation
 ├── 2.Multi_turn_fc/       # Notebooks and scripts for multi-turn function calling & evaluation
-├── README.md
-└── PPT for project.pptx
+└── README.md
 ```
 
 ---
